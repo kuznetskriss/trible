@@ -1,5 +1,6 @@
 venv
 change_before_push.py
+migrations/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
