@@ -2,7 +2,6 @@
 
 ![Backlog](https://github.com/users/kuznetskriss/projects/8/views/1) - список задач
 
-
 [Дизайн проекта](https://www.figma.com/file/qRd7z26ILzQNacVvj5tgCM/Trible?type=design&node-id=0%3A1&mode=design&t=pnXhf3fFxBdAgLuA-1)
 
 [Архитектура БД](Trible.vsdx)
@@ -30,3 +29,17 @@ Backend:
 ![Django-rest-framework](https://www.django-rest-framework.org/)
 
 DevOps:
+
+# Конкуренты
+
+## Учет инвестиций
+
+![Snowball](https://snowball-income.com)
+
+![Invest-planner](https://invest-planner.ru/)
+
+![Investmint](https://investmint.ru/)
+
+![Intelinvest](https://intelinvest.ru/)
+
+## Учет финансов
