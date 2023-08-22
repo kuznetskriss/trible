@@ -34,3 +34,6 @@
 
 
 ## [Дизайн проекта](https://www.figma.com/file/qRd7z26ILzQNacVvj5tgCM/Trible?type=design&node-id=0%3A1&mode=design&t=pnXhf3fFxBdAgLuA-1)
+
+## [Архитектура БД](docs/Trible.vsdx)
+
