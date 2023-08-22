@@ -65,10 +65,10 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'trible',
-        # 'USER': 'postgres',
-        # 'PASSWORD': 'postgres',
-        'USER': 'admin',
-        'PASSWORD': '1',
+        'USER': 'postgres',
+        'PASSWORD': 'postgres',
+        # 'USER': 'admin',
+        # 'PASSWORD': '1',
         'HOST': 'localhost',
         'PORT': '',
     }
@@ -169,8 +169,8 @@ EMAIL_HOST = 'smtp.yandex.ru'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 
-EMAIL_HOST_USER = 'your_email@yandex.ru'
-EMAIL_HOST_PASSWORD = 'your_yandex_smtp0_password'
+EMAIL_HOST_USER = 'kuznetsovakd04@yandex.ru'
+EMAIL_HOST_PASSWORD = 'ujxdutdwwxwnyocf'
 
 EMAIL_SERVER = EMAIL_HOST_USER
 DEFAULT_FROM_EMAIL = EMAIL_HOST_USER
