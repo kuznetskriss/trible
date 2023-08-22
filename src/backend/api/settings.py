@@ -152,7 +152,17 @@ DJOSER = {
         'user': 'users.serializers.CustomUserCreateSerializer',
         # 'current_user': 'users.serializers.CustomUserCreateSerializer',
         'user_delete': 'djoser.serializers.UserDeleteSerializer',
-    }
+    },
+    "EMAIL": (
+        {
+            "activation": "users.email.ActivationEmail",
+            "confirmation": "users.email.ConfirmationEmail",
+            "password_reset": "users.email.PasswordResetEmail",
+            "password_changed_confirmation": "users.email.PasswordChangedConfirmationEmail",
+            "username_changed_confirmation": "users.email.UsernameChangedConfirmationEmail",
+            "username_reset": "users.email.UsernameResetEmail",
+        }
+    ),
 }
 
 # #CORS
