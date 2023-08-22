@@ -3,4 +3,4 @@ psycopg2
 djoser
 djangorestframework_simplejwt # JWT
 social-auth-app-django # для стороней аунтификации
-pillow
+django-cors-headers
