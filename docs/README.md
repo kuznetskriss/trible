@@ -2,9 +2,13 @@
 
 ## Регламенты
 
-[Пользовательский интерфейс](ProjectRequirements.md)
+[О проекте](About.md)
 
-[Регламент работ](Regulations.md)
+[Функциональные требования](functional/FunctionalRequirements.md)
+
+[Технические требования](technical/TechnicalRequirements.md)
+
+[Регламент работ](regulations/Regulations.md)
 
 [Backlog](https://github.com/users/kuznetskriss/projects/8/views/1) - список задач
 
@@ -37,9 +41,9 @@
 
 [Дизайн проекта](https://www.figma.com/file/qRd7z26ILzQNacVvj5tgCM/Trible?type=design&node-id=0%3A1&mode=design&t=pnXhf3fFxBdAgLuA-1)
 
-[Концептуальная модель](ConceptualModel.vsdx)
+[Концептуальная модель](architecture/ConceptualModel.md)
 
-[Архитектура БД](DataBase.vsdx)
+[Архитектура БД](architecture/DataBase.md)
 
 [Запуск приложения](trible-test/README.md)
 
