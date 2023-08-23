@@ -2,7 +2,7 @@
 
 ## Регламенты
 
-[Требования к проекту](ProjectRequirements.md)
+[Пользовательский интерфейс](ProjectRequirements.md)
 
 [Регламент работ](Regulations.md)
 
