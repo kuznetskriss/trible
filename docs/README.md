@@ -4,9 +4,9 @@
 
 [О проекте](About.md)
 
-[Функциональные требования](functional/FunctionalRequirements.md)
+[Функциональные требования](requirements/FunctionalRequirements.md)
 
-[Технические требования](technical/TechnicalRequirements.md)
+[Технические требования](requirements/TechnicalRequirements.md)
 
 [Регламент работ](regulations/Regulations.md)
 
