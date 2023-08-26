@@ -53,6 +53,10 @@
 
 [React](https://react.dev/)
 
+[MUI](https://mui.com/)
+
+[Taiga-UI](https://taiga-ui.dev/getting-started)
+
 ### Backend:
 
 [Django official](https://docs.djangoproject.com/en/4.2/)
